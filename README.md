@@ -41,7 +41,7 @@ and exceeds the manufacturers design specifications.
 ## Lot 3
 ![image](https://user-images.githubusercontent.com/30275459/149674743-bbd3ef35-c69b-4f29-b324-8a530dca38bf.png)
 
-The T-test for Lot 3 shows that there is a slight variance from the population mean, and the p-value of (0.04168 -under .05) and enough for us to reject the null hypothesis.
+The T-test for Lot 3 shows that there is a slight variance from the population mean, and the p-value of (0.04168) and enough for us to reject the null hypothesis.
 
 ##  Study Design: MechaCar vs Competition
 * The metrics I would test to quantify how the MechaCar would compare against the competition would be highway fuel efficiency or mpg.  

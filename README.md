@@ -41,9 +41,15 @@ and exceeds the manufacturers design specifications.
 ## Lot 3
 ![image](https://user-images.githubusercontent.com/30275459/149674743-bbd3ef35-c69b-4f29-b324-8a530dca38bf.png)
 
-In Lot 1 and Lot 3 the PSI values does not vary greatly from the population mean, however lot 2 the p-value is .347 displaying there is evidence that the suspension coil is different from the population mean.
+The T-test for Lot 3 shows that there is a slight variance from the population mean, and the p-value of (0.04168 -under .05) and enough for us to reject the null hypothesis.
 
-
+##  Study Design: MechaCar vs Competition
+* The metrics I would test to quantify how the MechaCar would compare against the competition would be highway fuel efficiency or mpg.  
+* The null hypothesis would be MechaCar averages around the same mpg as most of its competitors.
+* The alternative hypothesis would be MechaCar has a better highwaqy fuel efficiency based upon mpg test from their competitors. 
+* The best statistical tests would be two-sample t-tests because we could compare the avg mpg as well as any variances.
+* The data we would need would be the fuel type, model of the car, testing site(if on the highway compared on the road) and drive system just to name a few.   
+* 
 
 
 

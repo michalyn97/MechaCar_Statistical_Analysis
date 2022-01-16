@@ -49,7 +49,7 @@ The T-test for Lot 3 shows that there is a slight variance from the population m
 * The alternative hypothesis would be MechaCar has a better highwaqy fuel efficiency based upon mpg test from their competitors. 
 * The best statistical tests would be two-sample t-tests because we could compare the avg mpg as well as any variances.
 * The data we would need would be the fuel type, model of the car, testing site(if on the highway compared on the road) and drive system just to name a few.   
-* 
+
 
 
 

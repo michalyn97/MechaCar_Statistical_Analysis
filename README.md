@@ -25,6 +25,6 @@ The r-squared value being .7149 is indicating that we can predict that the linea
 ![image](https://user-images.githubusercontent.com/30275459/149673656-80b5354a-304f-487b-989f-0d020d733212.png)
 
 The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
--
+
 Lot 1 and Lot 2 are both within the design specifications and display almost the same mean and median whereas, Lot 3 displays the most variance 
 and exceeds the manufacturers specifications.   

@@ -29,8 +29,21 @@ The design specifications for the MechaCar suspension coils dictate that the var
 Lot 1 and Lot 2 display almost the same mean and median whereas, Lot 3 displays the most variance 
 and exceeds the manufacturers design specifications.  
 
-## T-Tests
+## T-Tests on Suspension Coils
 ![image](https://user-images.githubusercontent.com/30275459/149674482-ec24c769-420a-431b-b5d9-ce7fd72c004c.png)
 
 ## Lot 1
+![image](https://user-images.githubusercontent.com/30275459/149674678-10da7f17-c83c-467d-9bb4-f89208baeca6.png)
+
+## Lot 2
+![image](https://user-images.githubusercontent.com/30275459/149674698-3b8ce426-adc7-4898-ad8b-a8882c7bec15.png)
+
+## Lot 3
+![image](https://user-images.githubusercontent.com/30275459/149674743-bbd3ef35-c69b-4f29-b324-8a530dca38bf.png)
+
+In Lot 1 and Lot 3 the PSI values does not vary greatly from the population mean, however lot 2 the p-value is .347 displaying there is evidence that the suspension coil is different from the population mean.
+
+
+
+
 
